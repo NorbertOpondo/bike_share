@@ -1,0 +1,27 @@
+/*CONTACT CSS GOES HERE*/
+
+
+
+h5{
+    font-family: "Lato",sans-serif;
+    font-size: 1.5em !important;
+    line-height: 42px !important;
+    font-weight: 300 !important;
+    color: #101820 !important;
+    font-style: normal;
+}
+.text{
+    text-align:center;
+}
+#customer_care{
+    margin-left:20px;
+}
+.contacts{
+    color:grey;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+.contacts:hover{
+    color:orange;
+    cursor:pointer;
+}

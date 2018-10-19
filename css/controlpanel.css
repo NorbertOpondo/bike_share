@@ -1,0 +1,15 @@
+#body-content-holder{
+    display: none;
+}
+#loader{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    width:200px;
+    z-index: 1;
+    margin: -75px 0 0 -75px;
+}
+#welcomeuser{
+	font-size: 17px;
+    margin-left: 20px;
+}

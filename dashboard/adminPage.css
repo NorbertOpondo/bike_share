@@ -1,0 +1,37 @@
+.admin{
+    font-size: 40px;
+    color:#00A87E;
+    font-family: consolas;
+}
+.top-pane{
+    border-bottom: solid 4px #00A87E;
+}
+
+.title{
+    font-size: 29px;
+    color: #CC0000;
+
+}
+#login-id{
+    color:#CC0000;
+}
+#jsGrid{
+    font-size:15px;
+}
+#user{
+    color:#00A87E;
+    font-family: consolas;
+    font-weight: bold;
+}
+#sign-out{
+    color:#CC0000;
+    border:none;
+    margin-left:-8px;
+    background-color:white;
+}
+#sign-out:hover{
+    color:#00A87E;
+}
+.th{
+    color:#00A87E;
+}
